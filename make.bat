@@ -1,0 +1,2 @@
+javac LightBarrierController.java
+jar cmf LightBarrierController.mf LightBarrierController.jar LightBarrierController.class LightBarrierController.java
